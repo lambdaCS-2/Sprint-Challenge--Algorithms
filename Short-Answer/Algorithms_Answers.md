@@ -5,7 +5,7 @@
 a)  O(n) Run time is based on input size.
 
 
-b)  O(n^2) 2 nested loops, so run time is squared based on input size.
+b)  O(n log n) 
 
 
 c)  O(n) Run time is based on input size.
